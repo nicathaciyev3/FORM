@@ -48,6 +48,7 @@ body{
     color: #fff;
     pointer-events: none;
     transition: .5s;
+    font-weight: 700;
     
 }
 .login .user input:focus ~ label,
